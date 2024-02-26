@@ -1,7 +1,7 @@
 name: googkesix-sch
 on:
   schedule:
-    - cron: '2 */9 * * *'
+    - cron: '5 */9 * * *'
 jobs:
   build:
 
